@@ -1,0 +1,96 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\pyari.gopal\\source\\repos\\MapService\\DynamoDB-Geo\\DynamoDB.Geo.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\pyari.gopal\\source\\repos\\MapService\\DynamoDB-Geo\\DynamoDB.Geo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\pyari.gopal\\source\\repos\\MapService\\DynamoDB-Geo\\DynamoDB.Geo.csproj",
+        "projectName": "DynamoDB.Geo",
+        "projectPath": "C:\\Users\\pyari.gopal\\source\\repos\\MapService\\DynamoDB-Geo\\DynamoDB.Geo.csproj",
+        "packagesPath": "C:\\Users\\pyari.gopal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pyari.gopal\\source\\repos\\MapService\\DynamoDB-Geo\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "configFilePaths": [
+          "C:\\Users\\pyari.gopal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net45",
+          "netstandard1.3"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net45": {
+            "projectReferences": {}
+          },
+          "netstandard1.3": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net45": {
+          "dependencies": {
+            "AWSSDK.DynamoDBv2": {
+              "target": "Package",
+              "version": "[3.3.2.1, )"
+            },
+            "GitVersionTask": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[4.0.0-beta0011, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "S2Geometry": {
+              "target": "Package",
+              "version": "[1.0.3, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
+        },
+        "netstandard1.3": {
+          "dependencies": {
+            "AWSSDK.DynamoDBv2": {
+              "target": "Package",
+              "version": "[3.3.2.1, )"
+            },
+            "GitVersionTask": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[4.0.0-beta0011, )"
+            },
+            "NETStandard.Library": {
+              "target": "Package",
+              "version": "[1.6.1, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "S2Geometry": {
+              "target": "Package",
+              "version": "[1.0.3, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

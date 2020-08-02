@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MapService", "MapService\MapService.csproj", "{8B1AA701-C3D6-4503-85FA-93DFDA28DAA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamoDB-Geo", "DynamoDB-Geo\DynamoDB-Geo.csproj", "{F37576DD-33D6-4AD1-97FE-73DF7BE582EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B1AA701-C3D6-4503-85FA-93DFDA28DAA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B1AA701-C3D6-4503-85FA-93DFDA28DAA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B1AA701-C3D6-4503-85FA-93DFDA28DAA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B1AA701-C3D6-4503-85FA-93DFDA28DAA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F37576DD-33D6-4AD1-97FE-73DF7BE582EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F37576DD-33D6-4AD1-97FE-73DF7BE582EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F37576DD-33D6-4AD1-97FE-73DF7BE582EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F37576DD-33D6-4AD1-97FE-73DF7BE582EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3C1BCF5-0218-49F9-AD52-D90F1FB1A517}
+	EndGlobalSection
+EndGlobal

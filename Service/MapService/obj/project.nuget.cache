@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "uPFeufCpLyfCAVRia2KqCbLSnhtbq3MalibORnEgPq8PGtlVpb3ZOYnQCZqpZ9Gstc7zZx5D9xgsAYJOU7KoEw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pyari.gopal\\source\\repos\\MapService\\MapService\\MapService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pyari.gopal\\.nuget\\packages\\awssdk.core\\3.3.107.32\\awssdk.core.3.3.107.32.nupkg.sha512",
+    "C:\\Users\\pyari.gopal\\.nuget\\packages\\awssdk.dynamodbv2\\3.3.106.40\\awssdk.dynamodbv2.3.3.106.40.nupkg.sha512",
+    "C:\\Users\\pyari.gopal\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.6\\microsoft.extensions.dependencyinjection.abstractions.3.1.6.nupkg.sha512",
+    "C:\\Users\\pyari.gopal\\.nuget\\packages\\microsoft.extensions.options\\3.1.6\\microsoft.extensions.options.3.1.6.nupkg.sha512",
+    "C:\\Users\\pyari.gopal\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.6\\microsoft.extensions.primitives.3.1.6.nupkg.sha512",
+    "C:\\Users\\pyari.gopal\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.8\\microsoft.visualstudio.azure.containers.tools.targets.1.10.8.nupkg.sha512",
+    "C:\\Users\\pyari.gopal\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\pyari.gopal\\.nuget\\packages\\s2geometry\\1.0.3\\s2geometry.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "Zh3meMPd3gHih1+unTPCFGW0zHDlya1YHBJ5FnnAIwGyUxM8RNYYZ3xO9d7MZZ+suhUSdTMZQbMj0LW4mvH+4A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pyari.gopal\\source\\repos\\MapService\\DynamoDB-Geo\\DynamoDB-Geo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pyari.gopal\\.nuget\\packages\\awssdk.core\\3.3.107.32\\awssdk.core.3.3.107.32.nupkg.sha512",
+    "C:\\Users\\pyari.gopal\\.nuget\\packages\\awssdk.dynamodbv2\\3.3.106.40\\awssdk.dynamodbv2.3.3.106.40.nupkg.sha512",
+    "C:\\Users\\pyari.gopal\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.6\\microsoft.extensions.dependencyinjection.abstractions.3.1.6.nupkg.sha512",
+    "C:\\Users\\pyari.gopal\\.nuget\\packages\\microsoft.extensions.options\\3.1.6\\microsoft.extensions.options.3.1.6.nupkg.sha512",
+    "C:\\Users\\pyari.gopal\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.6\\microsoft.extensions.primitives.3.1.6.nupkg.sha512",
+    "C:\\Users\\pyari.gopal\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\pyari.gopal\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\pyari.gopal\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\pyari.gopal\\.nuget\\packages\\s2geometry\\1.0.3\\s2geometry.1.0.3.nupkg.sha512",
+    "C:\\Users\\pyari.gopal\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\pyari.gopal\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
+    "C:\\Users\\pyari.gopal\\.nuget\\packages\\system.memory\\4.5.2\\system.memory.4.5.2.nupkg.sha512",
+    "C:\\Users\\pyari.gopal\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "C:\\Users\\pyari.gopal\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.7.1\\system.runtime.compilerservices.unsafe.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

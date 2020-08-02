@@ -1,0 +1,13 @@
+C:\Users\pyari.gopal\dynamodb-geo-csharp\DynamoDB-Geo\bin\Debug\netstandard1.3\DynamoDB.Geo.deps.json
+C:\Users\pyari.gopal\dynamodb-geo-csharp\DynamoDB-Geo\bin\Debug\netstandard1.3\DynamoDB.Geo.dll
+C:\Users\pyari.gopal\dynamodb-geo-csharp\DynamoDB-Geo\bin\Debug\netstandard1.3\DynamoDB.Geo.pdb
+C:\Users\pyari.gopal\dynamodb-geo-csharp\DynamoDB-Geo\obj\Debug\netstandard1.3\DynamoDB.Geo.csprojAssemblyReference.cache
+C:\Users\pyari.gopal\dynamodb-geo-csharp\DynamoDB-Geo\obj\Debug\netstandard1.3\DynamoDB.Geo.csproj.CoreCompileInputs.cache
+C:\Users\pyari.gopal\dynamodb-geo-csharp\DynamoDB-Geo\obj\Debug\netstandard1.3\DynamoDB.Geo.AssemblyInfoInputs.cache
+C:\Users\pyari.gopal\dynamodb-geo-csharp\DynamoDB-Geo\obj\Debug\netstandard1.3\DynamoDB.Geo.AssemblyInfo.cs
+C:\Users\pyari.gopal\dynamodb-geo-csharp\DynamoDB-Geo\obj\Debug\netstandard1.3\DynamoDB.Geo.dll
+C:\Users\pyari.gopal\dynamodb-geo-csharp\DynamoDB-Geo\obj\Debug\netstandard1.3\DynamoDB.Geo.pdb
+C:\Users\pyari.gopal\source\repos\MapService\DynamoDB-Geo\obj\Debug\netstandard1.3\DynamoDB.Geo.csprojAssemblyReference.cache
+C:\Users\pyari.gopal\source\repos\MapService\DynamoDB-Geo\obj\Debug\netstandard1.3\DynamoDB.Geo.csproj.CoreCompileInputs.cache
+C:\Users\pyari.gopal\source\repos\MapService\DynamoDB-Geo\obj\Debug\netstandard1.3\DynamoDB.Geo.dll
+C:\Users\pyari.gopal\source\repos\MapService\DynamoDB-Geo\obj\Debug\netstandard1.3\DynamoDB.Geo.pdb
