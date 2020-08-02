@@ -1,0 +1,3 @@
+<agm-map (zoomChange)="zoomChange($event)" (boundsChange)="boundsChanged($event)" [latitude]="lat" [longitude]="lng">
+  <agm-marker *ngFor="let marker of markers" [latitude]="marker.position.lat" [longitude]="marker.position.lng"></agm-marker>
+</agm-map>
